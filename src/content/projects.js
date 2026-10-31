@@ -39,7 +39,7 @@ export const projects = [
       "Zero UI libraries — three.js only downloads on capable desktops",
     ],
     tags: ["Next.js", "React", "CSS", "Performance"],
-    links: [{ label: "Source", href: "https://github.com/Bhawukp" }],
+    links: [{ label: "Source", href: "https://github.com/Bhawukp/bhawuk-os" }],
     commentary: [
       "Focus moves by geometry, not list index: pressing ↓ picks the card whose centre is closest, so rails with different card sizes still feel natural.",
       "The on-screen remote doesn't call functions — it dispatches real keyboard events, so the keyboard and the remote share one code path.",
